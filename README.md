@@ -2,6 +2,7 @@
 
 ![CloudSecurityBysecuritydojo](images/logo-1.png)
 
+[YouTube Channel](https://www.youtube.com/@peachycloudsecurity) | [Website](https://peachycloudsecurity.com) | [1:1 Consultations](https://topmate.io/peachycloudsecurity)
 
 ## General Cloud Security Knowledge
 
@@ -186,4 +187,33 @@
 
 - Additional reference: https://github.com/jassics/security-interview-questions/blob/main/aws-security-interview-questions.md
 
-Note: Chatgpt has been used to modify & reframe the questions, I have faced/asked in reallife.
+## License
+
+GPL-3.0. See LICENSE file for details.
+
+## Disclaimer
+
+This document, associated website, apps, scanner and results are provided strictly for educational purposes, independently authored and not endorsed by the author's employers or any corporate entity, provided without warranties or guarantees, with no liability accepted for misuse or misapplication. Chatgpt & Gemini has been used to modify as well reframe the questions based on real life patterns.
+
+
+## Peachycloud Security
+
+Hands-On Multi-Cloud & Cloud-Native Security Education
+
+Created by The Shukla Duo (Anjali & Divyanshu), this tool is part of our mission to make cloud security accessible through practical, hands-on learning. We specialize in AWS, GCP, Kubernetes security, and DevSecOps practices.
+
+### Learn & Grow
+
+Explore our educational content and training programs:
+
+[YouTube Channel](https://www.youtube.com/@peachycloudsecurity) | [Website](https://peachycloudsecurity.com) | [1:1 Consultations](https://topmate.io/peachycloudsecurity)
+
+Learn cloud security through hands-on labs, real-world scenarios, and practical tutorials covering GCP & AWS, GKE & EKS, Kubernetes, Containers, DevSecOps, and Threat Modeling.
+
+### Support Our Work
+
+- If this tool helps you secure your infrastructure, consider supporting our educational mission:
+
+[Sponsor on GitHub](https://github.com/sponsors/peachycloudsecurity)
+
+- Your support helps us create more free educational content and security tools for the community.
