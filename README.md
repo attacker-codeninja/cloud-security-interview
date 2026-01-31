@@ -22,6 +22,8 @@
 - How do you ensure that security groups and network ACLs in AWS are correctly configured to prevent unintended exposure of resources?
 - What is AWS Identity and Access Management (IAM) Access Analyzer, and how can it help identify and fix misconfigurations in access policies?
 - Should you expose Database access publicly or to a web application directly?
+- How do you secure sensitive data stored in S3 or databases when accessed by applications?
+- What are the most common cloud misconfigurations you look for during a security review?
 
 ### Advance Scenario Based Questions
 - Can you describe the process of designing a Cloud Security Standard for scanning and ensuring its consistent application across AWS environments?
@@ -41,6 +43,8 @@
 - What is the role of asset discovery in effective vulnerability management, and how can it be automated?
 - How do you prioritize and remediate vulnerabilities based on their severity and impact in a large-scale cloud environment?
 - Explain the importance of continuous monitoring and re-assessment in vulnerability management at scale.
+- How do you control access between a Kubernetes workload and cloud services like S3 or RDS
+- How do you balance security controls with developer velocity in cloud environments?
 
 ### Compliance:
 - How can automation be used to enforce security policies and compliance in a cloud environment?
@@ -166,6 +170,14 @@
 
 
 ## Cloud (CSP) Managed Kubernetes
+
+#### Kubernetes
+- If a pod is compromised, how do you prevent it from impacting the rest of the cluster or the cloud account?
+- If a pod is compromised, what can an attacker do next, and how do you limit the blast radius?
+- How do you control what a Kubernetes workload can access in the cloud?
+- What are the most common Kubernetes misconfigurations you see in production?
+- How do you secure communication between services inside a Kubernetes cluster?
+- How do you detect suspicious activity in a Kubernetes cluster at runtime?
 
 #### Types of Pod Creation:
 - In Kubernetes, what are the different methods for creating pods, and when would you use each method?
