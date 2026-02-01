@@ -1,4 +1,5 @@
 # Awesome Cloud Security Interview Questions 2026 :+1:
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![CloudSecurityBysecuritydojo](images/logo-1.png)
 
